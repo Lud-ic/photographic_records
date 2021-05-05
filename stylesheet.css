@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fcefe2;
+}
+
+.boxheader {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+}
+
+.logo {
+  width: 70px;
+  border-radius: 50% 0 50% 0;
+}
+
+.center {
+  display: block;
+  margin: auto;
+}
+
+.box {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: lightgrey;
+}
+
+.cover-pic {
+  width: 100%;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: saddlebrown;
+  background-color: lightgrey;
+}
+
+h2 {
+  color: black;
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: #834800;
+}
+
+.sc {
+  width: 50%;
+}
+
+.cisnes {
+  width: 35%;
+}
+
+.barcel {
+  width: 30%;
+}
+
+.m-ave {
+  width: 30%;
+}
+
+.bean {
+  width: 53.4%;
+}
+
+.saint {
+  width: 30%;
+}
+
+.bord {
+  width: 30%;
+}
+
+.s-emil {
+  width: 100%;
+}
+
+.video-gamba {
+  width: 26%;
+}
+
+.gamba-p {
+  width: 26%;
+}
+
+.grilo {
+  width: 30%;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  color: #686161;
+}
